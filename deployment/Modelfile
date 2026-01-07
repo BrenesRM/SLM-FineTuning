@@ -1,4 +1,4 @@
-FROM ./llama-3-8b-instruct.Q4_K_M.gguf
+FROM ./my-finetuned-model.gguf
 
 # Set parameters to influence creativity vs coherence
 PARAMETER temperature 0.7

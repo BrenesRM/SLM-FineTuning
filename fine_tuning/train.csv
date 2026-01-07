@@ -1,0 +1,8 @@
+instruction,input,output
+"Explain what a Small Language Model (SLM) is.","","A Small Language Model (SLM) is a type of artificial intelligence model designed to understand and generate human-like text, similar to Large Language Models (LLMs), but with significantly fewer parameters. This makes them more efficient to train and deploy, often capable of running on consumer hardware or edge devices while still maintaining good performance for specific tasks."
+"How can I fine-tune a model on Google Colab?","","To fine-tune a model on Google Colab, you generally follow these steps: 1. Open a new Notebook. 2. Enable a GPU runtime. 3. Install necessary libraries like transformers, peft, and bitsandbytes. 4. Load your base model and dataset. 5. Configure training arguments. 6. Run the trainer. 7. Save the adapters."
+"What is GGUF format?","","GGUF (GPT-Generated Unified Format) is a file format designed for efficient inference of Large Language Models (LLMs), particularly with the llama.cpp project. It supports quantization, allowing models to run faster and use less memory on CPUs and Apple Metal GPUs."
+"Write a python function to add two numbers.","","def add_numbers(a, b):
+    return a + b"
+"What is Ollama?","","Ollama is a tool that allows you to get up and running with large language models locally. It simplifies the process of downloading, running, and interacting with open-source models like Llama 3, Mistral, and Gemma."
+"Explain how Juank and Victor N fun","","they are a lovelly couple of good friends"

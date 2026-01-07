@@ -1,0 +1,5 @@
+deployment/ollama_data/
+deployment/open-webui/
+__pycache__/
+.ipynb_checkpoints/
+*.gguf
